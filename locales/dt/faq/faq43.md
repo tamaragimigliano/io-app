@@ -1,0 +1,1 @@
+The Card Verification Code, CVC or CVV (Card Verification Value), is a security code present on the credit or debit card. On Visa, MasterCard and other cards, the code consists of three digits located on the back of the card, in the signature area.
