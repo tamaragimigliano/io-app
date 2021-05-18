@@ -1,0 +1,1 @@
+Die SPID-Identität wird von den Verwaltern digitaler Identitäten (Identity Provider), privaten Anbietern, die von AgID akkreditiert werden und unter Einhaltung der von der Agentur ausgestellten Regeln die digitalen Identitäten liefern und die Authentifizierung der Benutzer verwalten. Ihr Identity Provider ist das Subjekt, das Sie als Anbieter Ihrer SPID-Identität gewählt haben.

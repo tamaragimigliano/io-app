@@ -1,0 +1,2 @@
+Die biometrische Authentifizierung kann nur dann in der App-IO verwendet werden, falls sie vom Smartphone unterstützt und in den Systemverwaltungen des Gerätes selbst aktiviert wird.
+Falls Ihr Telefon die biometrische Authentifizierung unerstützt, können Sie diese zu jeder Zeit in den Systemverwaltungen aktivieren.

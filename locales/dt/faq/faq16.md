@@ -1,0 +1,3 @@
+Die Daten der Elektronischen Identitätskarte können über ein NFC (Near Field Communication)-kompatibles Smartphone eingelesen werden.
+Übeprüfen Sie bitte in den technischen Eigenschaften Ihres Telefons, ob Ihr Smartphone NFC-kompatibel ist.
+Falls Sie über ein Smartphone mit Android-Betriebssystem verfügen, übeprüfen Sie in den 'Eigenschaften', im Bereich 'WLAN und Netze', ob die NFC-Funktion aktiv ist.

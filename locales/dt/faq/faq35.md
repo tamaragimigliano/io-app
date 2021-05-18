@@ -1,0 +1,6 @@
+pagoPA ist ein System, um alle Zahlungen gegenüber der öffentlichen Verwaltung einfacher, sichererer und transparenter zu gestalten. pagoPA wird verpflichtend von allen öffentlichen Verwaltungen und von den anderen Subjekten, die gesetzlich dazu verpflichtet sind, und von einer immer größer werdenden Anzahl von Banken und Kreditinstituten (Zahlungsdienstleistern - PSP) verwendet. pagoPA ist als Umsetzung von Art. 5 des Kodex der digitalen Verwaltung und vom G.D. 179/2012 vorgesehen. pagoPA ist aus besonderen Gründen entstanden:
+
+- die Verwendung von digitalen Zahlungsmethoden auf staatlicher Ebene in Anbetracht der Tatsache, dass die Zahlungen gegenüber den Gläubigerkörperschaften wegen der Anzahl der Transaktionen und der Volumina bedeutsam sind, zu steigern;
+- dem Bürger die Entscheidungsfreiheit über die Zahlungsmodalitäten, aus denen die Servicegebühr ersichtlich wird, zu überlassen;
+- die Kosten für die Verwaltung der Einnahmen für die Gläubigerkörperschaften zu senken;
+- die digitalen Zahlungsformen gegenüber den Gläubigerkörperschaften auf staatlicher Ebene zu standardisieren.

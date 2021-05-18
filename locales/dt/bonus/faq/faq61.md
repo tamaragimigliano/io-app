@@ -1,0 +1,1 @@
+﻿Es steht ein Urlaubsbonus je Haushalt zur Verfügung. Der Bonus kann auch von einem Angehörigen des Haushaltes und auf dieser Seite aufgelistet, und nicht notwendigerweise vom Antragssteller selbst ausgegeben werden.

@@ -1,0 +1,1 @@
+Es konnte kein biometrischer Login auf Ihrem Gerät gefunden werden. Wenn Sie einen biometrischen Login aktivieren möchten, können Sie dies auf Ihrem Gerät einstellen und dann in den Sicherheitseinstellungen der App-IO aktivieren. 

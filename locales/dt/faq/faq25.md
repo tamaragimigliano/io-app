@@ -1,0 +1,3 @@
+Nein, die erhaltenen Mitteilungen können nicht von der App gelöscht werden.
+
+Dafür haben wir den Bereich ‘*Archiviert*’ geschaffen, in den Sie die Mitteilungen, die Sie nicht mehr unter den erhaltenen Mitteilungen sehen möchten, verlegen könnten. Falls Sie in Zukunft auf Informationen, die in einer alten Mitteilung enthalten sind, zugreifen müssen, können Sie diese dadurch direkt im Bereich ‘*Archiviert*’ suchen.

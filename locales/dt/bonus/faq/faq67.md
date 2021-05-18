@@ -1,0 +1,1 @@
+﻿Nein. Nachdem Sie dem NISF/INPS die Einheitliche Ersatzerklärung (DSU) für die Berechnung des ISEE vorgelegt haben, müssen Sie nichts weiteres tun, um den Bonus über die App IO zu beantragen. Zum Zeitpunkt des Antrages überprüft die App automatisch mit den NISF/INPS-Systemen, ob Ihr ISEE unterhalb der vorgesehenen Schwelle liegt.

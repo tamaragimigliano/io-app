@@ -1,0 +1,1 @@
+**Der Identity Provider oder zu Deutsch der Identitätsanbieter, ist der Dienstanbieter Ihrer digitalen Identität**. Sie können Ihre Authentifizierung erst starten, nachdem Sie den entsprechenden Identity Provider ausgewählt haben, welcher Ihre SPID-Identität ausgestellt hat.

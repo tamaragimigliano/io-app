@@ -1,0 +1,3 @@
+Falls Sie nicht daran interessiert sind, Nachrichten von dieser Dienstleistung zu erhalten, können Sie den Empfang jederzeit deaktivieren.
+Um den Empfang zu deaktivieren, müssen Sie in den Dienstleistungen-Bereich einsteigen, die betroffene Dienstleistung in der Liste auswählen und die Schrift 'Die Dienstleistung ist aktiviert' auswählen. Ab diesem Zeitpunkt werden Sie die Schrift 'Die Dienstleistung ist nicht aktiviert' sehen und die Dienstleistung wird Ihnen keine Nachrichten mehr über die App-IO senden.
+Wir erinnern Sie daran, dass Sie die Dienstleistung, falls notwendig, über die weiteren zur Verfügung stehenden Kanäle (E-Mail, Post, Telefon, usw.), je nach Ihrer Auswahl, kontaktieren wird.

@@ -1,0 +1,2 @@
+Die archivierten Mitteilungen werden in den Bereich 'Archiviert' der Mitteilungen-Sektion verlegt.
+Diese Änderung wirkt sich nur auf das Telefon, welches Sie für die Archivierung benutzen, aus: Falls Sie mit denselben Zugangsdaten auf einem anderen Gerät auf die App-IO zugreifen, finden Sie alle Mitteilungen innerhalb der Kategorie 'Erhaltene Mitteilungen'. Sie können dennoch die Mitteilungen aus dem Archiv entfernen und werden diese automatisch im Bereich 'Mitteilungen' finden.

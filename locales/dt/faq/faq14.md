@@ -1,0 +1,1 @@
+Nach Abschluss des Authentifizierungsflusses befinden Sie sich in der App-IO. In der Profil-Sektion können Sie jederzeit im Bereich Privatsphäre die Mitteilung über die Verarbeitung der personenbezogenen Daten der Benutzer der App-IO einsehen (Art. 13 der EU-Verordnung Nr. 2016/679).

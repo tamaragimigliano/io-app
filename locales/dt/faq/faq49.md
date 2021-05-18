@@ -1,0 +1,1 @@
+Sie können Die Körperschaften nicht direkt über die App-IO kontaktieren, allerdings können Sie deren Kontaktinformationen im Bereich 'Dienstleistungen' in der Kartei jeder Dienstleistung einsehen.

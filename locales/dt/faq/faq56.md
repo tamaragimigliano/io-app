@@ -1,0 +1,2 @@
+Sie können die Löschung all Iher personenbezogener Daten, die mit der App-IO verbunden sind, beantragen. Nach der Löschung der Daten erhalten Sie eine Bestätigungsnachticht durch Ihre E-Mail Adresse, die mit der App verbunden ist.
+Dies bedeutet nicht, dass Sie IO nicht mehr verwenden könenen: Sie können weiterhin auf die App zugreifen, allerdings als ein neuer Benutzer. 

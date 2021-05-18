@@ -1,0 +1,1 @@
+Der Zahlungskodex ist ein einheitlicher Kodex, der von pagoPA zum Zeitpunkt der Zahlung erstellt wird, um diese zu identifizieren. Sie können diesen Kodex im Verkehr mit pagoPA oder mit den Körperschaften, falls Sie den Beratungsdienst in Anspruch nehmen, verwenden.

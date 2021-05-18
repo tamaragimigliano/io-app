@@ -1,0 +1,1 @@
+Derzeit erhebt APP-IO diese Daten von Ihren SPID- Identity Provider. Sie können dies im Profil Ihrer SPID-Identität abändern, möglicherweise werden Sie jedoch aufgefordert, sich erneut bei App-IO anzumelden.

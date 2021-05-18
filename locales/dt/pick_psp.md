@@ -1,0 +1,2 @@
+** Hier können Sie auswählen, mit welchem Zahlungsdienstleister (PSP) Sie die Zahlung durchführen möchten.**  
+Beachten Sie, dass jedes Kreditinstitut, welches Zahlungen mit pagoPA abwickelt (Payment Service Provider), unabhängig unterschiedliche Kosten einheben kann, abhängig von seiner eigenen Geschäftspolitik und seinen Vertragsbedingungen: Prüfen Sie die angewandten Kosten, bevor Sie mit der Zahlung fortfahren.

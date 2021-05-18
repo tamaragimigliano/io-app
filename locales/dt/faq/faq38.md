@@ -1,0 +1,2 @@
+Die in der App-IO sichtbare Zusammenfassung der Transaktion ist eine Zusammenfassung der durchgeführten Vorgänge, die Ihnen hilft, den Überblick über die über pagoPA getätigten Zahlungen zu behalten.
+Die elektronische Quittung der Transaktion ist das vom Zahlungsdienstleister (PSP - Payment Service Provider) ausgestellte Dokument, das die Zahlung bescheinigt und welche Ihnen von der Körperschaft und/oder vom Zahlungsdienstleister zugestellt wird.

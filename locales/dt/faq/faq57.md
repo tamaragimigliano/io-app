@@ -1,0 +1,1 @@
+Falls Sie Probleme während einer Zahlung hatten und nicht wissen, ob diese erfolgreich war, oder warum diese gescheitert ist, können Sie den [Stand Ihrer Zahlungen](ioit://PAYMENTS_HISTORY_SCREEN) überprüfen. Sie können die Operationen, die als gescheitert gelten, von der Liste auswählen und den Beratungsdienst kontaktieren.

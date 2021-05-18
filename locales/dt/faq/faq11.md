@@ -1,0 +1,1 @@
+Das Password ist der alphanumerische Code, den Sie zum Zeitpunkt der Erstellung Ihrer Digitalen SPID-Identität ausgewählt haben. Falls Sie es vergessen haben, können Sie das Password wiederherstellen und das entsprechende Wiederherstellungsverfahren, welches direkt vom Identity Provider verwaltet wird, einleiten.

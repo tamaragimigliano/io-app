@@ -1,0 +1,1 @@
+**Hier können Sie die Zahlungsmethode auswählen, mit der Sie die Zahlung durchführen.** IO unterstützt derzeit ausschließlich Zahlungen mit Kredit-/Debitkarte, in Kürze werden jedoch weitere Zahlungsmethoden, etwa PayPal, Satispay und weitere, hinzugefügt.

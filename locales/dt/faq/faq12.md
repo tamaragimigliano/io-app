@@ -1,0 +1,1 @@
+Es könnte ein Problem, das mit der Integration zwischen SPID und der App-IO zusammenhängt, bestehen. Bitte melden Sie uns das Problem über den Menüpunkt am Ende der Seite: Wir werden unser Bestes tun, um Sie zu unterstützen und es Ihnen zu ermöglichen, auf die App-IO sobald wie möglich zuzugreifen.

@@ -1,0 +1,1 @@
+Ja, es ist möglich, mehrere digitale Identitäten - auch mit unterschiedlichen Sicherheitsniveaus - zu beantragen und sich dabei an unterschiedliche Anbieter digitaler Identitäten zu wenden. Falls im Besitz mehrerer Identitäten ist jeder Bürger frei, auf IO über die bevorzugten SPID-Zugangsdaten zuzugreifen.

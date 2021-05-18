@@ -1,0 +1,2 @@
+Ja klar, falls die Nachricht die Zahlung über pagoPA unterstützt, können Sie diese direkt über die App-IO durchführen.
+Sie können überprüfen, dass das Zahlungsmodell geeigent ist, falls der QR-Code und/oder der Zahlungsmitteilungskodex verfügbar sind. Die App-Io ermöglicht es im Bereich 'Zahlungen', sowohl den QR-Code einzuscannen als auch den Zahlungsmitteilungskodex händisch einzueben, je nachdem, was für Sie angenehmer ist.

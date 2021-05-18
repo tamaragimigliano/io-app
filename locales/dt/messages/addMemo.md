@@ -1,0 +1,1 @@
+Fügen Sie eine Erinnerung ein, für den <b>{{date}}</b> at <b>{{hour}}</b>

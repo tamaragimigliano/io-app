@@ -1,0 +1,1 @@
+Ja, es ist immer möglich, den Freischaltcode innerhalb der Profil-Sektion zu ändern, indem Sie die Funktion "Freischaltcode ändern" wählen. Sie werden in diesem Fall dazu aufgefordert, das Authentifizierungsverfahren neu zu beginnen und einen neuen Freischaltcode zu wählen, nachdem Sie sich mit SPID oder Elektronischer Identitätskarte (CIE) authentifiziert haben.

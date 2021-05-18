@@ -1,0 +1,1 @@
+Nein. Derzeit ist die Austellung des Fahrradbonus über die App-IO nicht vorgesehen.

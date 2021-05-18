@@ -1,0 +1,3 @@
+**Um auf die App-IO zugreifen zu können, müssen Sie sich mit Ihrer SPID-Identität (Sistema Pubblico di Identità Digitale) oder mit Ihrer Elektronischen Identitätskarte (CIE) authentifizieren.**
+Dank dieser Registrierungssysteme ist Ihr Zugriff auf die App immer sicher.
+Um eine digitale SPID-Identität anzufordern, können Sie [spid-gov.it](https://www.spid.gov.it) besuchen und einen der vorgeschlagenen Identity Provider auswählen. Sollten Sie sich hingegen für die Elektronische Identitätskarte (CIE) interessieren, können Sie für weitere Informationen die Website Ihrer Gemeinde konsultieren und einen Termin vereinbaren.

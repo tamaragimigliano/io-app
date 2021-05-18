@@ -1,0 +1,1 @@
+Der Identifizierungscode oder ID der Nachricht ist ein einheitlicher Code, den die App-IO in Verbindung mit jeder versendeten Nachricht erstellt. Sie können Ihn verwenden, um eine Nachricht zu identifizieren, falls Sie den Beratungsdienst in Anspruch nehmen.

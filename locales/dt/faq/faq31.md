@@ -1,0 +1,2 @@
+In den Details der Nachricht finden Sie die Infos über die spezifische Dienstleistung und über die Körperschaft, die die Dienstleistung erbringt. Wenn Sie dem Link zum Profil der Dienstleistung folgen, finden Sie die Detailinformationen und die Kontaktdaten, über die Sie die entsprechende Körperschaft kontaktieren können.
+Je nach den von der einzelnen Körperschaft und Dienstleistung verwalteten Kontaktmodalitäten können die Kontaktdaten die folgenden Angaben beinhalten: Schaldteradresse, Telefonnummer, E-Mail- oder PEC-Adresse, Webseite, Online-Beratung, Mobile App.

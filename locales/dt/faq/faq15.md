@@ -1,0 +1,1 @@
+Die erste Hälfte der achtstelligen PIN-Nummer Ihrer Elektronischen Identitätskarte (CIE) wird von der Gemeinde anlässlich des entsprechenden Ausstellungsantrages ausgestellt, die zweite Hälfte bei der Übergabe derselben an Ihrem Wohnsitz.

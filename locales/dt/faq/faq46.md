@@ -1,0 +1,1 @@
+Ja, jedes Mal, wenn Sie eine neue Zahlung durchführen, können Sie den Anbieter frei wählen. Der für den Zahlungsdienst gewählte Anbieter muss nicht unbedingt mit Ihrer Bank oder dem Institut, das Ihre Kredit- oder Debitkarte ausgestellt hat, übereinsitmmen.

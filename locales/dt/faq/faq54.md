@@ -1,0 +1,1 @@
+Ein Muster kann für das Einlesen der auf dem Ausweis vorhandenen Daten und des Strichcodes durch die Handelstreibenden, die darum ersuchen, etwa in einer Apotheke oder auf dem Postamt, verwendet werden.

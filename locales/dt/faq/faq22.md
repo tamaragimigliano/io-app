@@ -1,0 +1,2 @@
+Sie können die biometrische Authentifizierung zu jeder Zeit in der 'Profil'-Sektion der App-IO deaktivieren.
+Die biometrische Aktivierung ist bereits deaktiviert, falls diese auf Ihrem Gerät nicht verfügbar ist oder in den Systemverwaltungen deaktiviert worden ist.

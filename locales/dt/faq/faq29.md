@@ -1,0 +1,3 @@
+Falls Sie der Meinung sind, dass sich in der Nachricht, die Sie erhalten haben, ein Fehler befindet, können Sie die Kontaktdaten der Körperschaft, die die Dienstleistung erbringt, nutzen, um eine Meldung einzureichen oder um Klarstellungen zu ersuchen.
+Die Kontakdaten sind im Detailbereich der Nachricht oder im Bereich 'Dienstleistungen' der App-IO, indem Sie die betroffene Körperschaft und Dienstleistung wählen, erhältlich.
+Je nach den von der einzelnen Körperschaft und Dienstleistung verwalteteten Kontaktmodalitäten, könnnen die Kontakdaten die folgenden Angaben beinhalten: Schalteradresse, Telefonnummer, E-Mail- und/oder PEC-Adresse, Webseite, Online-Beratung, Mobile App.

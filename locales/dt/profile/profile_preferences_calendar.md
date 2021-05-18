@@ -1,0 +1,1 @@
+**Ihr bevorzugter Kalender ist jener welcher mit Ihrer E-Mail verknüpft ist,** wenn Sie sich mit einem Google-Account registriert haben. Sie können den Ihrer E-Mail zugeordneten Kalender jederzeit ändern, um die Erinnerungen der App-IO auf jenen Kalender zu erhalten, welchen Sie am häufigsten verwenden.

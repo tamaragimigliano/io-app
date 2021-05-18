@@ -1,0 +1,3 @@
+﻿Falls die App Sie darauf hinweist, dass Ihre DSU "Unterlassungen oder Abweichungen" aufweist, können Sie:
+- den Antrag auf den Bonus unterbrechen und eine neue DSU vorlegen, um Ihren ISEE zu aktualisieren. In diesem Fall können Sie den Bonus zu einem späteren Zeitpunkt erneut beantragen:
+- oder Sie können die über die NISF/INPS-Kanäle eingereichte DSU überprüfen und - falls korrekt - dennoch mit dem Antrag fortfahren. Falls Sie mit der Aktivierung des Bonus fortfahren, könnten Sie, nachdem Sie diesen im ausgewählten Tourismusbetrieb verwendet haben, dazu aufgefordert werden, die Unterlagen vorzulegen, um die Vollständigkeit und die Wahrhaftigkeit der in der DSU angegebenen Daten zu beweisen.

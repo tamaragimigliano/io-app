@@ -1,0 +1,2 @@
+﻿Derzeit können Sie nur den Urlaubsbonus beantragen. Das Hinzufügen weiterer Boni oder Rabattkarten ist für die kommenden Monate geplant.
+Die Liste auf dieser Seite zeigt alle Boni oder die Rabatte, die über die App-IO beantragt werden können.

@@ -1,0 +1,1 @@
+Der CVC- (für MasterCard-Karten) und der CVV-Code (für Visa-Karten) sind Sicherheitskodizes, die im Allgemeinen auf der Rückseite der Karte nahe der Stelle, die für die Unterschrift des Karteinhabers vorbehalten ist, abgedruckt sind. Diese Kodizes bestehen meistens - in den Visa- und MasterCard-Karten - aus drei Zahlen.

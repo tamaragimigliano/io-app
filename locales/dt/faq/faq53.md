@@ -1,0 +1,3 @@
+Im oberen Bereich Ihres Profils können Sie die digitale Fassung einiger Ihrer Ausweise, etwa ein Modell Ihrer Steuernummer, die Elektronische Identitätskarte, die Gesundheitskarte (in der Entwicklungsphase) einsehen.
+Diese Ausweise sind Muster, d.h. sie ersetzen das physische Dokument nicht zur Gänze, können jedoch für das Einlesen der Daten und den Strichcode, die sich auf dem Ausweis befinden, von den Handelstreibenden, etwa in einer Apotheke oder auf dem Postamt, verwendet werden.
+Indem Sie die Karte auf dem oberen Bereich der Seite auswählen, können Sie die Details einsehen. Wenn Sie das Muster ein weiteres Mal berühren, können Sie neben den Details eine Vollbildvorschau darstellen (um den auf der Karte abgebildeten Kodex leichter einlesen zu können).

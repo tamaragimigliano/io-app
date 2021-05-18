@@ -1,0 +1,1 @@
+Jedes Institut, welches die Zahlungen mit pagoPA verwaltet (Zahlungsdienstleister) verwaltet, kann autonom unterschiedliche Kosten je nach den eigenen Handelsstrategien und den Vertragsbedingungen des Benutzers anwenden.

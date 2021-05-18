@@ -1,0 +1,1 @@
+Eine Dienstleistung zu deaktivieren bedeutet nicht mehr die Mitteilungen der betroffenen Dienstleistung über die APP-IO zu erhalten. Die Körperschaft, die die Dienstleistung ebringt, kann Sie dennoch kontkatieren oder von Ihnen über andere Kanäle - etwa die Webseite, E-Mail, Telefonnummer oder das zuständige Amt - kontaktiert werden.

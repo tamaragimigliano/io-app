@@ -1,0 +1,1 @@
+Alle Zahlungsbestätigungen können im Bereich 'Zahlungen' in der Liste 'Ihre Operationen' (oben befindet sich die neueste davon) eingesehen werden. Derzeit ist es nicht möglich, diese zu entfernen oder anders zu ordnen.

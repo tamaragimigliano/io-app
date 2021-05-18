@@ -1,0 +1,3 @@
+﻿Falls Sie volljährig sind, wählen Sie die Taste "Urlaubsbonus ansuchen", welche sich am Ende der Seite befindet, und folgen Sie den weiteren Schritten. Die App-IO wird das INPS kontaktieren, um die ISEE-Erklärung Ihres Haushaltes zu überprüfen. Falls diese die vorgegebenen Bedingungen erfüllt, wird Ihnen die App den Bonus anzeigen, den Sie oder Ihre Angehörigen nutzen können. Nachdem Ihr Antrag bestätigt worden ist, werden wir den Bonus erstellen und aktivieren.
+
+Achtung: Das Verfahren wurde für den Bürger so einfach wie möglich gestaltet, allerdings könnte mehr Zeit benötigt werden, um die Daten zu bearbeiten. Machen Sie sich keine Sorgen: In diesem Falle werden wir Ihnen sobald Ihr Antrag fertig bearbeitet ist eine Nachricht senden.

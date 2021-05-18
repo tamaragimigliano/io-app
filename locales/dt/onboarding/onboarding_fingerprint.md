@@ -1,0 +1,2 @@
+**Wenn Sie schneller auf die App zugreifen möchten, ohne jedes Mal den Entsperrungscode eingeben zu müssen, können Sie dies tun**, indem Sie die biometrische Erkennung per Fingerabdruck direkt in den Einstellungen Ihres Betriebssystems aktivieren.  
+Im Profil der App-IO können Sie jederzeit entscheiden, ob Sie die biometrische Erkennung beibehalten oder deaktivieren möchten. Probieren Sie es aus und Sie werden sehen, dass Sie nicht mehr darauf verzichten möchten!

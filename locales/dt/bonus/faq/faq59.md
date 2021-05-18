@@ -1,0 +1,3 @@
+﻿Ein Angehöriger Ihres Haushaltes muss dem NISF/INPS eine Einheitliche Ersatzerklärung (DSU) vorgelegt haben und es muss eine ordentliche oder laufende gültige ISEE-Erklärung bestehen.
+Der Bonus wird jenen Familien, deren ISEE nicht mehr als 40.000€ beträgt, ausbezahlt.
+Falls Sie, bevor Sie den Antrag einreichen, bereits wissen, dass Sie dem NISF/INPS noch nie eine DSU vorgelegt haben, oder falls Sie diese vorgelegt haben, um eine andere Art von ISEE (nicht ordentlich oder laufend) zu beantragen, oder falls sich etwas seit der letzten DSU geändert haben sollte (z.B. Änderung der Anzahl der Mitglieder des Haushalt, Vermögensänderungen), ersuchen wir Sie darum, beim NISF/INPS einen neuen Antrag vorzulegen.

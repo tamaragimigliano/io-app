@@ -1,0 +1,1 @@
+Beim beantragen des Bonus überprüft die App-IO mit den NISF/INPS-Systemen ob sich Ihre ISEE-Erklärung unterhalb der vorgesehenen Höchstgrenze befindet. Dafür wird der in der letzten von Ihrem Haushalt vorgelegte Erklärung (DSU) berechnete Betrag beachtet. Unter diesen Daten findet sich auch die Zusammensetzung des Haushaltes welche der App-IO mitgeteilt wird.

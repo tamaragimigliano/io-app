@@ -1,0 +1,2 @@
+Sie können den Kalender verbinden, indem Sie mit der Taste '+ Erinnerung' im Vorspann oder im Detail der einzelnen Nachricht interagieren. Wenn Sie beim nächsten Mal '+ Erinnerung' wählen, werden Sie gefragt, welchen Kalender Sie mit der App-IO verbinden möchten: Ab jenem Zeitpunkt werden die Erinnerungen direkt in den angegebenen Kalender eingefügt.
+Sie können den mit der App-IO verbundenen Kalender zu jeder Zeit anzeigen und in den Präferenzen im Profil-Bereich abändern
