@@ -1,2 +1,3 @@
-**Here you can view all your saved payments methods, and proceed to delete the ones you don’t need anymore or add new ones.** The payment methods you used and saved during previous payments with pagoPA (the Public Administration Payment Platform), are already saved in this area of the IO app.
-Please notice that the IO app currently support credit and debit card payments only: other methods such as PayPal, Satispay and others will be added soon.
+**Hier können Sie all Ihre gespeicherten Zahlungsmethoden anzeigen, diese löschen oder weitere hinzufügen.**
+Die verwendeten und bereits gespeicherten Zahlungsmethoden um Zahlungen über pagoPA, der Zahlungsplattform für die öffentliche Verwaltung, durchzuführen sind bereits in der App-IO gespeichert.
+IO unterstützt derzeit ausschließlich Zahlungen mit Kredit-/Debitkarte, in Kürze werden jedoch weitere Zahlungsmethoden, welche Sie bequem über die App verwenden können, etwa PayPal, Satispay und weitere, hinzugefügt.

@@ -1,2 +1,1 @@
-**You can choose the method of payment.**
-IO currently only supports credit/debit card payments but other payment methods such as PayPal, Satispay and others will be added soon.
+**Hier können Sie die Zahlungsmethode auswählen, mit der Sie die Zahlung durchführen.** IO unterstützt derzeit ausschließlich Zahlungen mit Kredit-/Debitkarte, in Kürze werden jedoch weitere Zahlungsmethoden, etwa PayPal, Satispay und weitere, hinzugefügt.

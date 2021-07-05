@@ -1,6 +1,3 @@
-Any money transfer (using cash or electronic money) has a cost, which is needed to guarantee you a secure and successful payment.
-
-Every PSP (Payment Service Provider) has its own transaction fee, depending on its commercial policies and contractual terms.
-
-With pagoPA, these fees are crystal clear and citizens can freely choose the most convenient and cheapest option.
-Please check the amount charged by the PSP before proceeding with the payment.
+Jede Geldtransaktion (Bargeld oder elektronisches Geld) bringt Kosten mit sich, die dafür sorgen, dass die Zahlung sicher und erfolgreich durchgeführt wird.  
+Jeder Zahlungsdienstleister (oder PSP, Payment Service Provider), schlägt je nach Geschäfts- und Vertragsbedingungen unterschiedliche Transaktionskosten vor.
+Mit pagoPA sind diese Kosten transparent und die Bürger können sich frei für die für sie passendste Variante entscheiden. Überprüfen Sie den Betrag, den der von Ihnen gewählte Zahlungsdienstleister anwendet, bevor Sie mit der Zahlung fortfahren.

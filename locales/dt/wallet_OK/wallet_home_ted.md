@@ -1,3 +1,0 @@
-**Im Bereich Zahlungen finden Sie die Liste Ihrer Zahlungsmethoden, Ihrer Boni und Rabattkarten und die Aufzählung der Zahlungsvorgänge über pagoPA,** der Zahlungsplattform für die öffentliche Verwaltung. 
-Hier können Sie alle Zahlungsmitteilungen bezahlen, falls sich auf diesen das PagoPA-Logo befindet: Lesen Sie den QR-Code, welchen Sie in der Zahlungsmitteilung vorfinden, ein und führen Sie die Zahlung direkt über die App-IO durch. 
-IO unterstützt derzeit ausschließlich Zahlungen über Kredit-/Debitkarte, in Kürze werden jedoch weitere Zahlungsmethoden hinzugefügt.

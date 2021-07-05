@@ -1,0 +1,1 @@
+Rufen Sie diese Seite auf [stato aggiunta metodi di pagamento](ioit://CREDIT_CARD_ONBOARDING_ATTEMPTS_SCREEN) , um aus der angezeigten Liste die fehlgeschlagenen Operationen auszuwählen und den Support zu kontaktieren.

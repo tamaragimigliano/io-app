@@ -1,1 +1,0 @@
-**Hier können Sie die Zusammenfassung des Zahlungsvorganges, den Sie gerade durchführen, anzeigen. Die Zusammenfassung des Zahlungsvorganes ist bis zum gegenwärtigen Zeitpunkt, indem die Zahlung gerade durchgeführt wird, aktualisiert: Daher können etwaige Verzugszinsen, die von der Körperschaft angewandt werden, noch aufscheinen.

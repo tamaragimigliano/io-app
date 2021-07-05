@@ -1,2 +1,0 @@
-**Hier können Sie eine Zahlungsmitteilung bezahlen, indem Sie die darauf abgedruckten Daten eingeben**: Den Zahlungsmitteilungskodex und die Steuernummer der Körperschaft.
-Versichern Sie sich, dass die Zahlungsmitteilung die Zahlung über pagoPA, der Zahlungsplattform für die öffentliche Verwaltung, unterstützt.

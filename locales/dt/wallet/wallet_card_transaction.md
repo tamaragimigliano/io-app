@@ -1,1 +1,3 @@
-**Here you can view all the transactions related to a specific payment method.** These transactions may have taken place in the IO app, or in another website using pagoPA as payment platform. If you have completed payments with pagoPA before, as authenticated user, you will find all the successful transactions here.
+**Hier können Sie alle Zahlungsvorgänge, welche Sie mit dieser Zahlungsmethode durchgeführt haben, anzeigen.**
+Die Zahlungsvorgänge können in dieser App oder über pagoPA, der Zahlungsplattform für die öffentliche Verwaltung, auf einer anderen Webseite erfolgt sein.
+Falls Sie Zahlungen über pagoPA als authentifizierter Benutzer durchgeführt haben, finden Sie hier alle entsprechenden erfolgreich durchgeführten Zahlungsvorgänge.

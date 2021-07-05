@@ -1,6 +1,6 @@
-The **PIN** code consists of 8 digits:  
-• the first 4 digits you received at the registry office;  
-• the last 4 digits you received at home, along with your electronic ID card. 
+Der **PIN**-Code besteht aus 8 Ziffern:  
+• die ersten vier Ziffern wurden Ihnen beim Meldeamt übergeben;  
+• die letzten vier Ziffern wurden Ihnen zusammen mit der elektronischen Identitätskarte nach Hause geschickt.  
   
-Please enter them following this order.  
-The PUK code is needed to unlock your **PIN**, in case of 3 wrong attempts. **PUK** consists of 8 digits and it's issued along with the **PIN**.
+Fügen Sie sie zusammen und geben Sie sie in dieser Reihenfolge an.  
+Der PUK-Code wird benötigt, um die **PIN** nach drei Fehlversuchen zu entsperren. Dieser besteht aus 8 Ziffern und wird zusammen mit der **PIN** vergeben.

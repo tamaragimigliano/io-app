@@ -1,0 +1,1 @@
+Wir empfehlen Ihnen, Ihre Karte sowohl als **BANKOMAT** als auch als **Debitkarte** abzuspeichern. Nur so können Sie Zahlungen auf IO vornehmen und alle für den Cashback gültigen Transaktionen sammeln.
